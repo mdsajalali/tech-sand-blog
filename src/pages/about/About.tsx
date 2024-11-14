@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <section
-      className="relative min-h-[85vh] bg-cover bg-center"
+      className="relative min-h-screen md:min-h-[75vh] bg-cover bg-center"
       style={{ backgroundImage: `url("/about.jpg")` }}
     >
       {/* Overlay */}
