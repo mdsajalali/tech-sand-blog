@@ -1,4 +1,5 @@
 import About from "@/pages/about/About";
+import AboutThree from "@/pages/about/AboutThree";
 import AboutTwo from "@/pages/about/AboutTwo";
 import Footer from "@/pages/Footer";
 import JoinUs from "@/pages/JoinUs";
@@ -12,6 +13,7 @@ export default function page() {
       <Navbar />
       <About />
       <AboutTwo />
+      <AboutThree />
       <StrategicPartnerships />
       <WorkTestimonial />
       <JoinUs />
