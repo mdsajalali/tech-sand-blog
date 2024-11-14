@@ -1,7 +1,7 @@
 export default function AboutTwo() {
   return (
     <section
-      className="relative min-h-screen md:min-h-[65vh] bg-cover bg-center"
+      className="relative min-h-[85vh] md:min-h-[65vh] bg-cover bg-center"
       style={{ backgroundImage: `url("/about_two.jpg")` }}
     >
       {/* Overlay */}
