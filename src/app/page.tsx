@@ -1,3 +1,4 @@
+import About from "@/pages/About";
 import Footer from "@/pages/Footer";
 import JoinUs from "@/pages/JoinUs";
 import Navbar from "@/pages/Navbar";
@@ -8,6 +9,7 @@ export default function page() {
   return (
     <>
       <Navbar />
+      <About />
       <StrategicPartnerships />
       <WorkTestimonial />
       <JoinUs />
